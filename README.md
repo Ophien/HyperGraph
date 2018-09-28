@@ -1,2 +1,2 @@
 # HyperGraph
-Graph editor game
+Graph editor game. This source code was posted with educational purposes.
